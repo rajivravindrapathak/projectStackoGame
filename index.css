@@ -1,0 +1,52 @@
+.mainDiv {
+    background-color: rgb(4, 75, 75);
+    width: 400px;
+    height: 325px;
+    margin: 1%;
+    margin-left: 32%;
+}
+.div1 {
+    display: flex;
+    justify-content: space-around;
+}
+.smallDiv {
+    margin: 5px;
+    background-color: white;
+    width: 40px;
+    height: 25px;
+    padding-left: 5.2%;
+    padding-top: 4.2%;
+}
+
+.smallDiv2 {
+    margin: 5px;
+    background-color: yellow;
+    width: 40px;
+    height: 25px;
+    padding-left: 5.2%;
+    padding-top: 4.2%;
+}
+
+.smallDiv3 {
+    margin: 5px;
+    background-color: green;
+    width: 40px;
+    height: 25px;
+    padding-left: 5.2%;
+    padding-top: 4.2%;
+}
+
+.smallDiv4 {
+    margin: 5px;
+    background-color: rgb(46, 143, 143);
+    width: 40px;
+    height: 25px;
+    padding-left: 5.2%;
+    padding-top: 4.2%;
+}
+
+.inputDiv {
+    width: 98%;
+    height: 40px;
+    background-color: rgb(9, 54, 54);
+}
